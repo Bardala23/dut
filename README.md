@@ -1,6 +1,5 @@
 # Découverte de Git
-#Modification
-#nouvelle 
+#Modification 
 Ce TP a pour objectif de vous faire découvrir la gestion de versions et ses outils (ici *Git*).
 
 1. [Une brève introduction](sections/introduction.md)
